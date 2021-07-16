@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb495fa8-b61d-46f9-9317-127060f12445" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bookstore/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/LoginRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/carousel/book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/carousel/book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/carousel/book3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/carousel/book4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/logo-name.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/assets/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/Book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/BookCarousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/BookDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/BookDetailForRoot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/BookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/CheckOut/AddressForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/CheckOut/Checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/CheckOut/PaymentForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/CheckOut/Review.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/ConsumeTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/EditTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/HeaderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/RootOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/SalesSortTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/SideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/UserAvatar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/UserOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/cartItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/rootsearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/tableforroot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/components/userTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/css/bookDetail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/services/bookService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/services/cartService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/services/orderService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/services/userService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/utils/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/utils/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/BookView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/EditTableView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/GraphView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/HomeView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/LoginView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/RootBookView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/RootHomeView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/RootOrderView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/UOrderView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/UserInfoView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/cartView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/view/checkoutView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookstore" />
+  </component>
+  <component name="ProjectId" id="1uZvBcQMGTW91kT2GvKY1XxALM4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb495fa8-b61d-46f9-9317-127060f12445" name="Default Changelist" comment="" />
+      <created>1624885791447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624885791447</updated>
+      <workItem from="1624885793244" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
